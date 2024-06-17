@@ -38,6 +38,7 @@
       {
         "position": "Software Engineer",
         "company": "Industrial Analytics",
+        "link": "https://industrial-analytics.io/",
         "location": "Berlin, Germany",
         "start_date": "April 2023",
         "end_date": "Present",
@@ -52,6 +53,7 @@
       {
         "position": "Tech Management Assistant",
         "company": "Solarisbank AG",
+        "link": "https://www.solarisgroup.com/en/",
         "location": "Berlin, Germany",
         "start_date": "April 2022",
         "end_date": "August 2022",
@@ -65,6 +67,7 @@
       {
         "position": "Junior Frontend Developer",
         "company": "theSeniorDev",
+        "link": "https://www.theseniordev.com/",
         "location": "Berlin, Germany",
         "start_date": "June 2021",
         "end_date": "January 2022",
