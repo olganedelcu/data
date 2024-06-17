@@ -1,99 +1,98 @@
 {
-    "name": "Olga Nedelcu",
-    "location": "Berlin, Germany",
-    "email": "olganedelcuam@gmail.com",
-    "phone": "+49(1) 5158802397",
-    "visa_status": "EU Citizen",
-    "linkedIn": "https://www.linkedin.com/in/olganedelcu/",
-    "github": "https://github.com/olganedelcu",
-    "website": "https://olga-nedelcu-portfolio.vercel.app/",
-    "picture": "https://avatars.githubusercontent.com/u/33576634?v=4",
-    "technical_tooling": [
-      "React.js (Intermediate)",
-      "JavaScript (Intermediate)",
-      "TypeScript (Intermediate)",
-      "Cypress",
-      "Jest",
-      "AWS",
-      "Azure Cloud",
-      "HTML (Advanced)",
-      "CSS",
-      "REST APIs",
-      "Git",
-      "GitLab",
-      "Google OAuth",
-      "Webpack",
-      "JSON",
-      "Storybook",
-      "Figma",
-      "Lighthouse",
-      "Babel",
-      "Postman",
-      "NPM",
-      "C++"
-    ],
-    "work_experience": [
-      {
-        "position": "Software Engineer",
-        "company": "Industrial Analytics",
-        "link": "https://industrial-analytics.io/",
-        "location": "Berlin, Germany",
-        "start_date": "April 2023",
-        "end_date": "Present",
-        "responsibilities": [
-          "Set up a documentation server and page for streamlined knowledge sharing.",
-          "Engineered AWS pipelines, integrating bash scripting for automated deployments, slashing deployment time by 40%.",
-          "Boosted user satisfaction by 25% and engagement through frontend optimisations using Figma, Lighthouse, and SVG formats.",
-          "Implemented Google OAuth for secure user authentication and a seamless login experience.",
-          "Ensured smooth integration between frontend and backend systems through rigorous testing and debugging with Postman."
-        ]
-      },
-      {
-        "position": "Tech Management Assistant",
-        "company": "Solarisbank AG",
-        "link": "https://www.solarisgroup.com/en/",
-        "location": "Berlin, Germany",
-        "start_date": "April 2022",
-        "end_date": "August 2022",
-        "responsibilities": [
-          "Reduced debugging time by 50% by implementing PageDuty for developers.",
-          "Used Jira and Confluence to maintain internal resources, document roadmap and tickets which ensured the team was aligned on our OKRs.",
-          "Monitored OKR progress with CTO and tech leadership on a monthly basis.",
-          "Participated in company initiatives focused on the Tech department, including sessions on backend services and banking APIs."
-        ]
-      },
-      {
-        "position": "Junior Frontend Developer",
-        "company": "theSeniorDev",
-        "link": "https://www.theseniordev.com/",
-        "location": "Berlin, Germany",
-        "start_date": "June 2021",
-        "end_date": "January 2022",
-        "responsibilities": [
-          "Enhanced customer experience of the billing system through integrations of third-party providers such as Payfunnels for an easy payment process, handling recurring payments that increased customer satisfaction by 76%.",
-          "Increased agency website click-through rate by 18%+ in 30 days through implementing web development and SEO best practices.",
-          "Gained insight into the performance and monitoring by using real user monitoring on our main website (Lighthouse and Sentry). 20% of my workload involved programming in JavaScript and React.js."
-        ]
-      }
-    ],
-    "education_and_certifications": [
-      {
-        "degree": "Applied Mathematics and Computing (Coursework Program)",
-        "institution": "Charles III University of Madrid",
-        "location": "Madrid, Spain",
-        "start_date": "2019",
-        "end_date": "2021"
-      }
-    ],
-    "side_projects": [
-      {
-        "project_name": "Technovation Girls - Girls for Change",
-        "description": "Developed a 15-week program and coordinated a group of women students to deliver a web app using MIT App Inventor."
-      },
-      {
-        "project_name": "Movie App and Personal Portfolio",
-        "description": "Using Netlify and Vercel for deployment and React.js for development."
-      }
-    ]
-  }
-  
+  "name": "Olga Nedelcu",
+  "location": "Berlin, Germany",
+  "email": "olganedelcuam@gmail.com",
+  "phone": "+49(1) 5158802397",
+  "visa_status": "EU Citizen",
+  "linkedIn": "https://www.linkedin.com/in/olganedelcu/",
+  "github": "https://github.com/olganedelcu",
+  "website": "https://olga-nedelcu-portfolio.vercel.app/",
+  "picture": "https://avatars.githubusercontent.com/u/33576634?v=4",
+  "technical_tooling": [
+    "React.js (Intermediate)",
+    "JavaScript (Intermediate)",
+    "TypeScript (Intermediate)",
+    "Cypress",
+    "Jest",
+    "AWS",
+    "Azure Cloud",
+    "HTML (Advanced)",
+    "CSS",
+    "REST APIs",
+    "Git",
+    "GitLab",
+    "Google OAuth",
+    "Webpack",
+    "JSON",
+    "Storybook",
+    "Figma",
+    "Lighthouse",
+    "Babel",
+    "Postman",
+    "NPM",
+    "C++"
+  ],
+  "work_experience": [
+    {
+      "position": "Software Engineer",
+      "company": "Industrial Analytics",
+      "link": "https://industrial-analytics.io/",
+      "location": "Berlin, Germany",
+      "start_date": "April 2023",
+      "end_date": "Present",
+      "responsibilities": [
+        "Set up a documentation server and page for streamlined knowledge sharing.",
+        "Engineered AWS pipelines, integrating bash scripting for automated deployments, slashing deployment time by 40%.",
+        "Boosted user satisfaction by 25% and engagement through frontend optimisations using Figma, Lighthouse, and SVG formats.",
+        "Implemented Google OAuth for secure user authentication and a seamless login experience.",
+        "Ensured smooth integration between frontend and backend systems through rigorous testing and debugging with Postman."
+      ]
+    },
+    {
+      "position": "Tech Management Assistant",
+      "company": "Solarisbank AG",
+      "link": "https://www.solarisgroup.com/en/",
+      "location": "Berlin, Germany",
+      "start_date": "April 2022",
+      "end_date": "August 2022",
+      "responsibilities": [
+        "Reduced debugging time by 50% by implementing PageDuty for developers.",
+        "Used Jira and Confluence to maintain internal resources, document roadmap and tickets which ensured the team was aligned on our OKRs.",
+        "Monitored OKR progress with CTO and tech leadership on a monthly basis.",
+        "Participated in company initiatives focused on the Tech department, including sessions on backend services and banking APIs."
+      ]
+    },
+    {
+      "position": "Junior Frontend Developer",
+      "company": "theSeniorDev",
+      "link": "https://www.theseniordev.com/",
+      "location": "Berlin, Germany",
+      "start_date": "June 2021",
+      "end_date": "January 2022",
+      "responsibilities": [
+        "Enhanced customer experience of the billing system through integrations of third-party providers such as Payfunnels for an easy payment process, handling recurring payments that increased customer satisfaction by 76%.",
+        "Increased agency website click-through rate by 18%+ in 30 days through implementing web development and SEO best practices.",
+        "Gained insight into the performance and monitoring by using real user monitoring on our main website (Lighthouse and Sentry). 20% of my workload involved programming in JavaScript and React.js."
+      ]
+    }
+  ],
+  "education_and_certifications": [
+    {
+      "degree": "Applied Mathematics and Computing (Coursework Program)",
+      "institution": "Charles III University of Madrid",
+      "location": "Madrid, Spain",
+      "start_date": "2019",
+      "end_date": "2021"
+    }
+  ],
+  "side_projects": [
+    {
+      "project_name": "Technovation Girls - Girls for Change",
+      "description": "Developed a 15-week program and coordinated a group of women students to deliver a web app using MIT App Inventor."
+    },
+    {
+      "project_name": "Movie App and Personal Portfolio",
+      "description": "Using Netlify and Vercel for deployment and React.js for development."
+    }
+  ]
+}
