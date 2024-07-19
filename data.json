@@ -5,6 +5,7 @@
   "phone": "+49(1) 5158802397",
   "linkedIn": "https://www.linkedin.com/in/olganedelcu/",
   "github": "https://github.com/olganedelcu",
+  "medium": "https://medium.com/@olganedelcuam",
   "website": "https://olga-nedelcu-portfolio.vercel.app/",
   "picture": "https://avatars.githubusercontent.com/u/33576634?v=4",
   "technical_tooling": [
@@ -92,6 +93,11 @@
     {
       "project_name": "Movie App and Personal Portfolio",
       "description": "Using Netlify and Vercel for deployment and React.js for development."
+    }
+  ],
+  "technical_blog": [
+    {
+      "link": "https://olgaconstantina.hashnode.dev/",
     }
   ]
 }
