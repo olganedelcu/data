@@ -102,19 +102,16 @@
       "start_date": "2019",
       "end_date": "2021",
       "description": "Developed and coordinated a 15-week program empowering women students to create and deliver a web app using MIT App Inventor."
-    },
-    {
-      "degree": "Co-hosting Tech Voices",
-      "institution": "Tech Voices Podcast",
-      "start_date": "2023",
-      "end_date": "2024",
-      "description": "Co-hosting Tech Voices, a podcast featuring discussions with CTOs and tech leaders to promote transparency and insights into industry trends and innovations."
     }
   ],
   "side_projects": [
     {
       "project_name": "Personal Portfolio",
       "description": "Using Netlify and Vercel for deployment and React.js for development."
+    },
+    {
+      "project_name": "Tech Voices Podcast",
+      "description": "Co-hosting Tech Voices, a podcast featuring discussions with CTOs and tech leaders to promote transparency and insights into industry trends and innovations."
     }
   ],
   "languages": [
